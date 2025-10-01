@@ -1,0 +1,9 @@
+provider_name,contact_count,deals_value,opportunity_value,marketing_cost,pipeline_stage
+Dr. Smith,36,475668,383295,55443,Closed Won
+Dr. Johnson,59,484364,377575,10531,Negotiation
+Dr. Williams,12,388568,188152,25231,Closed Lost
+Dr. Brown,59,383707,358683,14895,Negotiation
+Dr. Jones,20,216519,114804,37205,Negotiation
+Dr. Garcia,62,320311,378777,28678,Prospecting
+Dr. Miller,12,163748,205791,30647,Closed Lost
+Dr. Davis,18,231164,393150,11428,Proposal
